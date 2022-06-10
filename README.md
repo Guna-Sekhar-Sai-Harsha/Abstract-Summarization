@@ -83,11 +83,6 @@ Data set used : [Kaggle:Amazon fine food reviews](https://www.kaggle.com/snap/am
 </p>
 
 
-------------------------------------------
-## Contributors:
-
-- [Ankur Chemburkar](https://github.com/Developer-Zer0)
-- [Talha Chafekar](https://github.com/talha1503)
 
 ------------------------------------------
 ## References
