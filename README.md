@@ -1,5 +1,5 @@
 # Get To The Point: Summarization with Pointer-Generator Networks
-Pytorch implementation of [Get To The Point: Summarization with Pointer-Generator Networks (2017)](https://arxiv.org/pdf/1704.04368.pdf) by Abigail See et al. 
+This repo is Pytorch implementation of [Get To The Point: Summarization with Pointer-Generator Networks (2017)](https://arxiv.org/pdf/1704.04368.pdf) by Abigail See et al. 
 
 ## Model Description
 * LSTM based Sequence-to-Sequence model for Abstractive Summarization
